@@ -2,7 +2,7 @@
 
 An end-to-end Sales Insights Dashboard for a computer hardware business built using MySQL, SQL, and Tableau to track revenue trends, market performance, and customer concentration risk across regions of India.
 
-## 🔗 [View Live Dashboard](#) https://public.tableau.com/app/profile/ritik.verma6899/viz/Book1_17643221906530/Dashboard1?publish=yes
+## 🔗 [https://public.tableau.com/app/profile/ritik.verma6899/viz/Book1_17643221906530/Dashboard1?publish=yes](#) 
 
 ## Tech Stack
 `MySQL` `SQL` `Tableau` `ETL` `Data Cleaning`
